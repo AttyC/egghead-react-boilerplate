@@ -1,11 +1,20 @@
 {
   "name": "react-boilerplate",
   "version": "0.1.0",
-  "description": "",
+  "description": "Boilerplate React starter using egghead.io Modern JavaScript Tooling course",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "A Cronin",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AttyC/egghead-react-boilerplate.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/AttyC/egghead-react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/AttyC/egghead-react-boilerplate#readme"
 }
